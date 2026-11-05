@@ -11,6 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [The Cat Who Saved the Library](ebook/TheCatWhoSavedtheLibrary.pdf) – Sosuke Natsukawa (2025)
 8. [The Dallergut Dream Department Store](ebook/TheDallergutDreamDepartmentStore.pdf) – Lee Miye (2024)
 9. [The Restaurant of Lost Recipes](ebook/TheRestaurantofLostRecipes.pdf) – Hisashi Kashiwai (2024)
-10. [The Concept of the Absurd Camus Literary Exploration of Existential Philosophy](ebook/TheConceptoftheAbsurdCamusLiteraryExplorationofExistentialPhilosophy.pdf) – Ilhama Mammadova (2025) 
+10. [The Concept of the Absurd Camus Literary Exploration of Existential Philosophy](ebook/TheConceptoftheAbsurdCamusLiteraryExplorationofExistentialPhilosophy.pdf) – Ilhama Mammadova (2025)
+11. [Catatan UGC PATI](ebook/CatatanUGCPATI.pdf) – Mazaya Nailah Shabrina (2026)
 
 Powered by GitHub Pages
