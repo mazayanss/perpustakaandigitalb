@@ -1,5 +1,10 @@
 # Digital Library
-Selamat Datang di Perpustakaan Digital
+Selamat Datang di Perpustakaan Digital👋🏻
+
+Nama: Mazaya Nailah Shabrina 
+NIM: 13040124130080
+Kelas: B
+
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Agnes Auberts Mystical Cat Shelter](ebook/AgnesAubertsMysticalCatShelter.pdf) – Heather Fawcett (2026) 
